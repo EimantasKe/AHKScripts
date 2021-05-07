@@ -12,10 +12,10 @@
   * \td -> the current date
   * \tt -> the current time
 * Binds
-  * Capslock bind to Shift
-  * F10 bind to Volume Up
-  * F11 bind to Volume Down
-  * F12 bind to Volume Mute
+  * Capslock bound to Shift
+  * F10 bound to Volume Up
+  * F11 bound to Volume Down
+  * F12 bound to Volume Mute
 * Other
   * Numlock always on
 ## Google.ahk ([Source](https://autohotkey.com/board/topic/115094-simple-google-search-script-need-help/?p=672724))
