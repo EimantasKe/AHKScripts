@@ -29,6 +29,10 @@
 Author: Rajat
 
 This script assigns hotkeys of your choice to raise and lower the master and/or wave volume. Both volumes are displayed as different color bar graphs.
+* Master Volume Up (Win+UpArrow)
+* Master Volume Down (Win+DownArrow)
+* Wave Volume Up (Shift+Win+UpArrow)
+* Wave Volume Down (Shift+Win+DownArrow)
 
 ## gui_test.ahk ([Source](https://www.autohotkey.com/boards/viewtopic.php?t=3851&start=40))
 **activex gui - test**
