@@ -35,7 +35,7 @@ This script assigns hotkeys of your choice to raise and lower the master and/or 
 
 Author: joedf
 
-Simple example of a GUI using AcitveX
+This script gives a simple example of a GUI using AcitveX
 ## Find other scripts:
 * [AutoHotkey Script Showcase](https://www.autohotkey.com/docs/scripts/index.htm)
 * [AutoHotkey Scripts and Functions Forum](https://www.autohotkey.com/boards/viewforum.php?f=6)
